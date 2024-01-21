@@ -769,3 +769,9 @@ h3.my-profession
         max-width: 100%;
     }
 }
+
+#name
+{
+    color: var(--skin-color);
+    
+}
